@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miltonplumbingpros.ca/sitemap-index.xml
